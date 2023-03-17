@@ -1,0 +1,41 @@
+.container {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+html{
+background-color: rgb(85, 71, 71);
+}
+
+h1 {
+    color: white;
+	font-size: 48px;
+	margin-top: 50px;
+    text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3
+{
+    margin-top: -25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+
+.gif-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 50px;
+}
+
+.gif-container img {
+	width: 500px;
+	height: 500px;
+	margin: 0 20px;
+}
+
+
